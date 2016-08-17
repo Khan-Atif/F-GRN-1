@@ -1,5 +1,8 @@
 Fuzzy Gene Regulatory Networks (F-GRN)
 
+![alt tag](https://cloud.githubusercontent.com/assets/20991816/17739156/2a7d3808-6462-11e6-9a8f-f0c87f3fdfca.png "F-GRN (version 1.0)")
+
+
 F-GRN implements fuzzy c-means clustering algorithm to identify functionally related genes (gene-sets). F-GRN is developed in Matlab as an installable package. F-GRN allows user to identify gene signatures in human monocyte derived dendritic cell responsive to influenza infection. This interactive package is developed by Thakar Lab located at the University of Rochester Medical Center, Rochester, New York. For futher information regarding F-GRN, please contact: 
  
 Dr. Juilee Thakar 
